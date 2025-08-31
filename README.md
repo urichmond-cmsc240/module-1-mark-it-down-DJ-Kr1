@@ -1,6 +1,6 @@
 # Dongju Han
 
-![Picture of Myself](IMG_0023.jpg)
+![Picture of Myself] (IMG_0023.jpg)
 
 **eid: dhan** |
 **Username: DJ-Kr1**
@@ -16,6 +16,6 @@ Hobbies:
 - Gym
 - Guitar
   
-Favorite Game [League of Legends](https://www.leagueoflegends.com/en-us/)
+Favorite Game [League of Legends] (https://www.leagueoflegends.com)
 
-![Picture of Myself](league-of-legends-pc-game-cover.jpg)
+![Picture of Myself] (league-of-legends-pc-game-cover.jpg)
