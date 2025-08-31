@@ -16,6 +16,6 @@ Hobbies:
 - Gym
 - Guitar
   
-Favorite Game [League of Legends](https://www.leagueoflegends.com)
+Favorite Game: [League of Legends](https://www.leagueoflegends.com)
 
 ![Picture of Favorite Game](league-of-legends-pc-game-cover.jpg)
