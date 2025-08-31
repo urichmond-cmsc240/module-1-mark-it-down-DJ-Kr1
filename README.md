@@ -1,6 +1,6 @@
 # Dongju Han
 
-![Picture of Myself](IMG_0023.jpg)
+<img src="IMG_0023.jpg" width=200 height=400>
 
 **eid: dhan** |
 **Username: DJ-Kr1**
