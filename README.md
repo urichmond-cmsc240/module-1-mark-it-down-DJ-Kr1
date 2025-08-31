@@ -18,4 +18,4 @@ Hobbies:
   
 Favorite Game [League of Legends](https://www.leagueoflegends.com)
 
-![Picture of Myself](league-of-legends-pc-game-cover.jpg)
+![Picture of Favorite Game](league-of-legends-pc-game-cover.jpg)
